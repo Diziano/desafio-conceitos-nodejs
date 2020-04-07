@@ -1,4 +1,4 @@
-<img alt="GoStack" src=".git/bootcamp-gostack/header.png" />
+<img alt="GoStack" src=".github/bootcamp-gostack/header.png" />
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
